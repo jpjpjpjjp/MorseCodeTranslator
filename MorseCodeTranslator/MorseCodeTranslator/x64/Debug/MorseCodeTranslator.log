@@ -1,0 +1,12 @@
+﻿  MorseCodeTranslator.cpp
+C:\Users\jploy\source\repos\MorseCodeTranslator\MorseCodeTranslator\MorseCodeTranslator.cpp(21,45): warning C4267: 'argument': conversion from 'size_t' to '_Elem', possible loss of data
+C:\Users\jploy\source\repos\MorseCodeTranslator\MorseCodeTranslator\MorseCodeTranslator.cpp(21,45): warning C4267:         with
+C:\Users\jploy\source\repos\MorseCodeTranslator\MorseCodeTranslator\MorseCodeTranslator.cpp(21,45): warning C4267:         [
+C:\Users\jploy\source\repos\MorseCodeTranslator\MorseCodeTranslator\MorseCodeTranslator.cpp(21,45): warning C4267:             _Elem=char
+C:\Users\jploy\source\repos\MorseCodeTranslator\MorseCodeTranslator\MorseCodeTranslator.cpp(21,45): warning C4267:         ]
+C:\Users\jploy\source\repos\MorseCodeTranslator\MorseCodeTranslator\MorseCodeTranslator.cpp(35,37): warning C4267: 'argument': conversion from 'size_t' to '_Elem', possible loss of data
+C:\Users\jploy\source\repos\MorseCodeTranslator\MorseCodeTranslator\MorseCodeTranslator.cpp(35,37): warning C4267:         with
+C:\Users\jploy\source\repos\MorseCodeTranslator\MorseCodeTranslator\MorseCodeTranslator.cpp(35,37): warning C4267:         [
+C:\Users\jploy\source\repos\MorseCodeTranslator\MorseCodeTranslator\MorseCodeTranslator.cpp(35,37): warning C4267:             _Elem=char
+C:\Users\jploy\source\repos\MorseCodeTranslator\MorseCodeTranslator\MorseCodeTranslator.cpp(35,37): warning C4267:         ]
+  MorseCodeTranslator.vcxproj -> C:\Users\jploy\source\repos\MorseCodeTranslator\x64\Debug\MorseCodeTranslator.exe
